@@ -1,0 +1,114 @@
+{
+    "type": "FeatureCollection",
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "place_id": "638414",
+                "osm_type": "node",
+                "osm_id": "245711197",
+                "display_name": "Ahmedabad, Ahmedabad District, Gujarat, 380001, India",
+                "place_rank": "16",
+                "category": "place",
+                "type": "city",
+                "importance": 0.660365661995003,
+                "icon": "https://nominatim.openstreetmap.org/images/mapicons/poi_place_city.p.20.png"
+            },
+            "bbox": [
+                72.4197068,
+                22.8616238,
+                72.7397068,
+                23.1816238
+            ],
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    72.5797068,
+                    23.0216238
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "place_id": "26229246",
+                "osm_type": "node",
+                "osm_id": "2518284376",
+                "display_name": "Ahmedabad, تحصیل پنڈ دادنخان / تحصیل جہلم, Jhelum District, Punjab, Pakistan",
+                "place_rank": "19",
+                "category": "place",
+                "type": "village",
+                "importance": 0.375,
+                "icon": "https://nominatim.openstreetmap.org/images/mapicons/poi_place_village.p.20.png"
+            },
+            "bbox": [
+                72.8336319,
+                32.4822729,
+                72.8736319,
+                32.5222729
+            ],
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    72.8536319,
+                    32.5022729
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "place_id": "45620527",
+                "osm_type": "node",
+                "osm_id": "3336777167",
+                "display_name": "Kalupur  Bus stop, Gandhi Road, Gita Mandir, Revdi Bazar, Ahmedabad, Ahmedabad District, Gujarat, 380001, India",
+                "place_rank": "30",
+                "category": "amenity",
+                "type": "bus_station",
+                "importance": 0.101,
+                "icon": "https://nominatim.openstreetmap.org/images/mapicons/transport_bus_station.p.20.png"
+            },
+            "bbox": [
+                72.5984403,
+                23.0218234,
+                72.5985403,
+                23.0219234
+            ],
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    72.5984903,
+                    23.0218734
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "place_id": "68457690",
+                "osm_type": "node",
+                "osm_id": "5737097597",
+                "display_name": "Ahmedabad, SH68, Nava Naroda, Hanspura, Ahmedabad District, Gujarat, 380028, India",
+                "place_rank": "30",
+                "category": "railway",
+                "type": "station",
+                "importance": 0.101,
+                "icon": "https://nominatim.openstreetmap.org/images/mapicons/transport_train_station2.p.20.png"
+            },
+            "bbox": [
+                72.7095216,
+                23.0723526,
+                72.7195216,
+                23.0823526
+            ],
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    72.7145216,
+                    23.0773526
+                ]
+            }
+        }
+    ]
+}

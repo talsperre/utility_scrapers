@@ -1,0 +1,321 @@
+{
+    "type": "FeatureCollection",
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "place_id": "125023",
+                "osm_type": "node",
+                "osm_id": "25503669",
+                "display_name": "Pretoria, City of Tshwane Metropolitan Municipality, Gauteng, 0001, RSA",
+                "place_rank": "15",
+                "category": "place",
+                "type": "city",
+                "importance": 0.715778097650654,
+                "icon": "https://nominatim.openstreetmap.org/images/mapicons/poi_place_city.p.20.png"
+            },
+            "bbox": [
+                28.0279444,
+                -25.9059374,
+                28.3479444,
+                -25.5859374
+            ],
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.1879444,
+                    -25.7459374
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "place_id": "430826",
+                "osm_type": "node",
+                "osm_id": "153932511",
+                "display_name": "Pretoria, Bulloch County, Georgia, USA",
+                "place_rank": "19",
+                "category": "place",
+                "type": "hamlet",
+                "importance": 0.375,
+                "icon": "https://nominatim.openstreetmap.org/images/mapicons/poi_place_village.p.20.png"
+            },
+            "bbox": [
+                -81.7503887,
+                32.3899032,
+                -81.7103887,
+                32.4299032
+            ],
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -81.7303887,
+                    32.4099032
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "place_id": "47683667",
+                "osm_type": "node",
+                "osm_id": "3625940896",
+                "display_name": "Pretoria, Coeneo, Michoacán, Mexico",
+                "place_rank": "19",
+                "category": "place",
+                "type": "village",
+                "importance": 0.375,
+                "icon": "https://nominatim.openstreetmap.org/images/mapicons/poi_place_village.p.20.png"
+            },
+            "bbox": [
+                -101.640379,
+                19.7672984,
+                -101.600379,
+                19.8072984
+            ],
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -101.620379,
+                    19.7872984
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "place_id": "669835",
+                "osm_type": "node",
+                "osm_id": "249597650",
+                "display_name": "Pretoria, El Triunfo, Guayas, Ecuador",
+                "place_rank": "19",
+                "category": "place",
+                "type": "village",
+                "importance": 0.375,
+                "icon": "https://nominatim.openstreetmap.org/images/mapicons/poi_place_village.p.20.png"
+            },
+            "bbox": [
+                -79.353333,
+                -2.286667,
+                -79.313333,
+                -2.246667
+            ],
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.333333,
+                    -2.266667
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "place_id": "62069602",
+                "osm_type": "node",
+                "osm_id": "5086439005",
+                "display_name": "Pretoria, Montalvo, Los Ríos, Ecuador",
+                "place_rank": "19",
+                "category": "place",
+                "type": "hamlet",
+                "importance": 0.375,
+                "icon": "https://nominatim.openstreetmap.org/images/mapicons/poi_place_village.p.20.png"
+            },
+            "bbox": [
+                -79.3081852,
+                -1.7811668,
+                -79.2681852,
+                -1.7411668
+            ],
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.2881852,
+                    -1.7611668
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "place_id": "46127261",
+                "osm_type": "node",
+                "osm_id": "3424251403",
+                "display_name": "Pretoria, 230, Warren Shire Council, New South Wales, 2824, Australia",
+                "place_rank": "20",
+                "category": "place",
+                "type": "farm",
+                "importance": 0.35
+            },
+            "bbox": [
+                148.0385055,
+                -31.260148,
+                148.0585055,
+                -31.240148
+            ],
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    148.0485055,
+                    -31.250148
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "place_id": "429826",
+                "osm_type": "node",
+                "osm_id": "153959723",
+                "display_name": "Pretoria, Dougherty County, Georgia, USA",
+                "place_rank": "19",
+                "category": "place",
+                "type": "hamlet",
+                "importance": 0.290180073808303,
+                "icon": "https://nominatim.openstreetmap.org/images/mapicons/poi_place_village.p.20.png"
+            },
+            "bbox": [
+                -84.3371321,
+                31.4843413,
+                -84.2971321,
+                31.5243413
+            ],
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -84.3171321,
+                    31.5043413
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "place_id": "842117",
+                "osm_type": "node",
+                "osm_id": "280293332",
+                "display_name": "Protoria, Archanes - Asterousia Municipality, Heraklion Regional Unit, Region of Crete, Crete, 70010, Greece",
+                "place_rank": "19",
+                "category": "place",
+                "type": "village",
+                "importance": 0.275,
+                "icon": "https://nominatim.openstreetmap.org/images/mapicons/poi_place_village.p.20.png"
+            },
+            "bbox": [
+                25.1262563,
+                35.0181015,
+                25.1662563,
+                35.0581015
+            ],
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.1462563,
+                    35.0381015
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "place_id": "80612621",
+                "osm_type": "way",
+                "osm_id": "24413179",
+                "display_name": "Pretoria, Los Domínicos, Las Condes, Provincia de Santiago, Santiago Metropolitan Region, 7550000, Chile",
+                "place_rank": "26",
+                "category": "highway",
+                "type": "residential",
+                "importance": 0.2
+            },
+            "bbox": [
+                -70.5526413,
+                -33.421843,
+                -70.550353,
+                -33.4215148
+            ],
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -70.5526413,
+                        -33.4218249
+                    ],
+                    [
+                        -70.552441,
+                        -33.421843
+                    ],
+                    [
+                        -70.5521023,
+                        -33.421819
+                    ],
+                    [
+                        -70.5510982,
+                        -33.4217107
+                    ],
+                    [
+                        -70.5507957,
+                        -33.4216786
+                    ],
+                    [
+                        -70.5506314,
+                        -33.4216429
+                    ],
+                    [
+                        -70.5504786,
+                        -33.4215954
+                    ],
+                    [
+                        -70.550353,
+                        -33.4215148
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "place_id": "186279148",
+                "osm_type": "way",
+                "osm_id": "527813563",
+                "display_name": "Pretoria, Calderon, Quito, Pichincha, 129, Ecuador",
+                "place_rank": "26",
+                "category": "highway",
+                "type": "residential",
+                "importance": 0.2
+            },
+            "bbox": [
+                -78.4234406,
+                -0.0570645,
+                -78.4234226,
+                -0.0563403
+            ],
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -78.4234229,
+                        -0.0563403
+                    ],
+                    [
+                        -78.4234226,
+                        -0.0566736
+                    ],
+                    [
+                        -78.4234226,
+                        -0.0566943
+                    ],
+                    [
+                        -78.4234244,
+                        -0.0567304
+                    ],
+                    [
+                        -78.4234406,
+                        -0.0570645
+                    ]
+                ]
+            }
+        }
+    ]
+}

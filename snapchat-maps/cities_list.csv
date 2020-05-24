@@ -1,0 +1,173 @@
+Delhi,28513682.00,1942586.00,delhi.json,yes
+Sao Paulo,21650181.00,298285.00,sao_paulo.json,yes
+Mexico City,21580827.00,1376330.00,mexico_city.json,yes
+Cairo,20076002.00,5466227.00,cairo.json,yes
+Mumbai,19979955.00,7888990.00,mumbai.json,yes
+Dhaka,19578421.00,4773565.00,dhaka.json,yes
+Osaka,19281188.00,358674.00,osaka.json,yes
+Karachi,15400223.00,3181550515.00,karachi.json,no
+Buenos Aires,14966530.00,1224652.00,buenos_aires.json,yes
+Istanbul,14750771.00,1882099475.00,istanbul.json,no
+Manila,13482468.00,6497589.00,manila.json,yes
+Lagos,13463421.00,3718182.00,lagos.json,yes
+Rio De Janeiro,13293172.00,2697338.00,rio_di_janeiro.json,yes
+Moscow,12409738.00,102269.00,moscow.json,yes
+Bangalore,11440030.00,7902476.00,bangalore.json,yes
+Paris,10900952.00,7444.00,paris.json,yes
+Bogota,10574409.00,7426387.00,bogota.json,yes
+Jakarta,10516927.00,6362934.00,jakarta.json,yes
+Chennai,10455606.00,1766358.00,chennai.json,yes
+Lima,10390607.00,1944756.00,lima.json,yes
+Bangkok,10156316.00,92277.00,bangkok.json,yes
+Seoul,9963497.00,2297418.00,seoul.json,yes
+Hyderabad,9481623.00,7868535.00,hyderabad.json,yes
+London,9046485.00,65606.00,london.json,yes
+Tehran,8895947.00,6663864.00,tehran.json,yes
+New York,8601186.00,175905.00,new_york.json,yes
+Ahmedabad,7680935.00,245711197.00,ahmedabad.json,no
+Kuala Lumpur,7563912.00,2939672.00,kuala_lumpur.json,yes
+Riyadh,6906595.00,315358390.00,riyadh.json,no
+Santiago,6680371.00,164609.00,santiago.json,yes
+Surat,6563585.00,1952514.00,surat.json,yes
+Madrid,6497124.00,5326784.00,madrid.json,yes
+Pune,6275748.00,16174445.00,pune.json,no
+Toronto,6082425.00,324211.00,toronto.json,yes
+Dar Es Salaam,6047600.00,7202037.00,dar_es_salaam.json,yes
+Barcelona,5494125.00,347950.00,barcelona.json,yes
+Johannesburg,5485986.00,594508.00,johannesburg.json,yes
+St Petersburg,5383068.00,421007.00,st_petersburg.json,yes
+Yangon,5157461.00,6004094.00,yangon.json,yes
+Alexandria,5086240.00,27565020.00,alexandria.json,no
+Guadalajara,5022674.00,5605820.00,guadalajara.json,yes
+Ankara,4919074.00,1812321.00,ankara.json,yes
+Sydney,4792281.00,5750005.00,sydney.json,yes
+Melbourne,4770894.00,2404870.00,melbourne.json,yes
+Brasilia,4469585.00,421151.00,brasilia.json,yes
+Cape Town,4430367.00,79604.00,cape_town.json,yes
+Nairobi,4385853.00,9185096.00,nairobi.json,yes
+Rome,4209710.00,41485.00,rome.json,yes
+Montreal,4171716.00,1634158.00,montreal.json,yes
+Los Angeles,4057841.00,207359.00,los_angeles.json,yes
+Tel Aviv,4010977.00,1382494.00,tel_aviv.json,yes
+Medellin,3933652.00,3541280.00,medellin.json,yes
+Jaipur,3716538.00,315734346.00,jaipur.json,no
+Casablanca,3683566.00,6880199.00,casablanca.json,yes
+Berlin,3552123.00,62422.00,berlin.json,yes
+Lucknow,3504506.00,1959018.00,lucknow.json,yes
+Busan,3466898.00,2396450.00,busan.json,yes
+Athens,3155600.00,1370736.00,athens.json,yes
+Milan,3132060.00,44915.00,milan.json,yes
+Kanpur,3080571.00,1959036.00,kanpur.json,yes
+Lisbon,2927316.00,5400890.00,lisbon.json,yes
+Abuja,2918518.00,3717265.00,abuja.json,yes
+Surabaya,2902504.00,8225862.00,surabaya.json,yes
+Dubai,2785376.00,3766483.00,dubai.json,yes
+Cali,2725931.00,1320707.00,cali.json,yes
+Manchester,2690445.00,146656.00,manchester.json,yes
+Chicago,2679044.00,122604.00,chicago.json,yes
+Vancouver,2530746.00,1852574.00,vancouver.json,yes
+Accra,2439389.00,1991850.00,accra.json,yes
+Beirut,2385271.00,5466662.00,beirut.json,yes
+Pretoria,2378350.00,25503669.00,pretoria.json,no
+Houston,2359480.00,2688911.00,houston.json,yes
+Brisbane,2338120.00,1546628274.00,brisbane.json,no
+Bhopal,2277592.00,245712627.00,bhopal.json,no
+Havana,2136468.00,1854615.00,havana.json,yes
+Hiroshima,2095219.00,4097196.00,hiroshima.json,yes
+Tijuana,2058213.00,5606504.00,tijuana.json,yes
+Brussels,2049510.00,54094.00,brussels.json,yes
+Perth,1990745.00,29277817.00,perth.json,no
+Mecca,1967094.00,4308338842.00,mecca.json,no
+Phnom Penh,1952329.00,2199033.00,phnom_penh.json,yes
+Vienna,1900547.00,109166.00,vienna.json,yes
+Bucharest,1821380.00,377733.00,bucharest.json,yes
+Hamburg,1792904.00,62782.00,hamburg.json,yes
+Panama City,1783490.00,8415626.00,panama_city.json,yes
+Warsaw,1767798.00,336074.00,warsaw.json,yes
+Budapest,1759497.00,1244004.00,budapest.json,yes
+Aleppo,1753516.00,32520143.00,aleppo.json,no
+Phoenix,1711356.00,111257.00,phoenix.json,yes
+Lyon,1690105.00,120965.00,lyon.json,yes
+Glasgow,1660581.00,1906767.00,glasgow.json,yes
+Marseille,1599198.00,76469.00,marseille.json,yes
+Stockholm,1582968.00,25929985.00,stockholm.json,no
+Philadelphia,1576596.00,188022.00,philadelphia.json,yes
+Sharjah,1570849.00,847933749.00,sharjah.json,no
+San Antonio,1565929.00,253556.00,san_antonio.json,yes
+Auckland,1556875.00,292806332.00,auckland.json,no
+Munich,1503708.00,62428.00,munich.json,yes
+Calgary,1476598.00,3227127.00,calgary.json,yes
+San Diego,1453775.00,253832.00,san_diego.json,yes
+Abu Dhabi,1419699.00,261611194.00,abu_dhabi.json,no
+Dallas,1359133.00,6571629.00,dallas.json,yes
+San Jose,1030796.00,112143.00,san_jose.json,yes
+Austin,983366.00,113314.00,austin.json,yes
+Jacksonville,907529.00,119008.00,jacksonville.json,yes
+San Francisco,888653.00,111968.00,san_francisco.json,yes
+Charlotte,873363.00,177415.00,charlotte.json,yes
+Indianopolis,860902.00,153353016.00,indianapolis.json,no
+Seattle,746046.00,237385.00,seattle.json,yes
+Denver,719116.00,253750.00,denver.json,yes
+Washington DC,702756.00,5396194.00,washington_dc.json,yes
+El Paso,692100.00,113919.00,el_paso.json,yes
+Boston,687584.00,2315704.00,boston.json,yes
+Nashville,673008.00,197472.00,nashville.json,yes
+Detroit,665713.00,134591.00,detroit.json,yes
+Portland,658347.00,186579.00,portland.json,yes
+Oklahoma City,653865.00,185048.00,oklahoma_city.json,yes
+Las Vegas,653840.00,170117.00,las_vegas.json,yes
+Memphis,649243.00,197239.00,memphis.json,yes
+Louisville,619287.00,1804307.00,louisville.json,yes
+Miami,479009.00,1216769.00,miami.json,yes
+Cincinnati,299238.00,183453.00,cincinnati.json,yes
+Orlando,297243.00,1128379.00,orlando.json,yes
+Irvine,297019.00,114485.00,irvine.json,yes
+Plano,294478.00,6575893.00,plano.json,yes
+Greensboro,292265.00,180261.00,greensboro.json,yes
+Lincoln,291623.00,169588.00,lincoln.json,yes
+Newark,283756.00,170486.00,newark.json,yes
+Durham,279501.00,2528696.00,durham.json,yes
+Toledo,275004.00,182514.00,toledo.json,yes
+St. Petersburg,273968.00,118894.00,st_petersburg_2.json,yes
+Chula Vista,273565.00,111848.00,chula_vista.json,yes
+Fort Wayne,269534.00,127309.00,fort_wayne.json,yes
+Scottsdale,266961.00,110826.00,scottsdale.json,yes
+Jersey City,265004.00,170953.00,jersey_city.json,yes
+Laredo,264473.00,113253.00,laredo.json,yes
+Madison,264365.00,3352040.00,madison.json,yes
+Lubbock,264029.00,115401.00,lubbock.json,yes
+Reno,259019.00,170120.00,reno.json,yes
+Chandler,258421.00,110798.00,chandler.json,yes
+Buffalo,252555.00,175031.00,buffalo.json,yes
+North Las Vegas,252169.00,170118.00,north_las_vegas.json,yes
+Gilbert,251335.00,110803.00,gilbert.json,yes
+Winston Salem,247222.00,180101.00,winston_salem.json,yes
+Chesapeake,245467.00,206671.00,chesapeake.json,yes
+Irving,245165.00,5748832.00,irving.json,yes
+Norfolk,242070.00,206672.00,norfolk.json,yes
+Fremont,238281.00,111943.00,fremont.json,yes
+Hialeah,234428.00,118853.00,hialeah.json,yes
+Richmond,233796.00,3864712.00,richmond.json,yes
+Boise City,231773.00,121360.00,boise_city.json,yes
+Garland,231160.00,253954.00,garland.json,yes
+Baton Rouge,225900.00,132206.00,baton_rouge.json,yes
+Spokane,224652.00,237599.00,spokane.json,yes
+Jeddah,3430000.00,1933393717.00,jeddah.json,no
+Kuwait,4140000.00,544060405.00,kuwait.json,no
+Doha,956000.00,27332.00,doha.json,yes
+Medina,1100000.00,4571693347.00,medina.json,no
+Amsterdam,822000.00,47811.00,amsterdam.json,yes
+Algiers,0.00,157062.00,algiers.json,yes
+Copenhagen,0.00,2192363.00,copenhagen.json,yes
+Prague,0.00,439840.00,prague.json,yes
+Chandigarh,0.00,1942809.00,chandigarh.json,yes
+Amritsar,0.00,245772397.00,amritsar.json,no
+Kolkata,0.00,245707150.00,kolkata.json,no
+Baghdad,0.00,5638803.00,baghdad.json,yes
+Amman,0.00,1643504896.00,amman.json,no
+Dakar,0.00,27565045.00,dakar.json,no
+Marrakesh,0.00,2799538.00,marrakesh.json,yes
+Monaco,0.00,2220322.00,monaco.json,yes
+Birmingham,0.00,162378.00,birmingham.json,yes
+Leeds,0.00,118362.00,leeds.json,yes
+Liverpool,0.00,172987.00,liverpool.json,yes

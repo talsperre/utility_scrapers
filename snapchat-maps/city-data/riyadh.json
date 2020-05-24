@@ -1,0 +1,348 @@
+{
+    "type": "FeatureCollection",
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "place_id": "1364133",
+                "osm_type": "node",
+                "osm_id": "315358390",
+                "display_name": "Riyadh, Riyadh Region, 11131, Saudi Arabia",
+                "place_rank": "15",
+                "category": "place",
+                "type": "city",
+                "importance": 0.703660785698091,
+                "icon": "https://nominatim.openstreetmap.org/images/mapicons/poi_place_city.p.20.png"
+            },
+            "bbox": [
+                46.5550648,
+                24.4719692,
+                46.8750648,
+                24.7919692
+            ],
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    46.7150648,
+                    24.6319692
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "place_id": "11132448",
+                "osm_type": "node",
+                "osm_id": "995288255",
+                "display_name": "Riyadh, Khartoum, Khartoum State, 11114, Sudan",
+                "place_rank": "20",
+                "category": "place",
+                "type": "suburb",
+                "importance": 0.35,
+                "icon": "https://nominatim.openstreetmap.org/images/mapicons/poi_place_village.p.20.png"
+            },
+            "bbox": [
+                32.5477069,
+                15.5635188,
+                32.5877069,
+                15.6035188
+            ],
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    32.5677069,
+                    15.5835188
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "place_id": "743492",
+                "osm_type": "node",
+                "osm_id": "262715572",
+                "display_name": "Riyadh, Verulam, eThekwini Metropolitan Municipality, KwaZulu-Natal, 4399, RSA",
+                "place_rank": "20",
+                "category": "place",
+                "type": "suburb",
+                "importance": 0.35,
+                "icon": "https://nominatim.openstreetmap.org/images/mapicons/poi_place_village.p.20.png"
+            },
+            "bbox": [
+                31.0433333,
+                -29.6677778,
+                31.0833333,
+                -29.6277778
+            ],
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.0633333,
+                    -29.6477778
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "place_id": "117522231",
+                "osm_type": "way",
+                "osm_id": "178122883",
+                "display_name": "Riyadh, Khartoum, Khartoum State, 11114, Sudan",
+                "place_rank": "22",
+                "category": "place",
+                "type": "neighbourhood",
+                "importance": 0.30000000000000004
+            },
+            "bbox": [
+                32.5596117,
+                15.5705326,
+                32.5769702,
+                15.5882725
+            ],
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            32.5596117,
+                            15.5859997
+                        ],
+                        [
+                            32.5606607,
+                            15.5795446
+                        ],
+                        [
+                            32.5623434,
+                            15.5705326
+                        ],
+                        [
+                            32.5769702,
+                            15.5728071
+                        ],
+                        [
+                            32.5745332,
+                            15.5882725
+                        ],
+                        [
+                            32.5610122,
+                            15.5862133
+                        ],
+                        [
+                            32.5596117,
+                            15.5859997
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "place_id": "82875751",
+                "osm_type": "way",
+                "osm_id": "28045097",
+                "display_name": "Riyadh, Multinational Village, Moonwalk, Parañaque, Metro Manila, 1700, Philippines",
+                "place_rank": "26",
+                "category": "highway",
+                "type": "residential",
+                "importance": 0.2
+            },
+            "bbox": [
+                121.0047827,
+                14.4847782,
+                121.006679,
+                14.4852221
+            ],
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        121.0047827,
+                        14.4852221
+                    ],
+                    [
+                        121.0058159,
+                        14.4849603
+                    ],
+                    [
+                        121.006679,
+                        14.4847782
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "place_id": "143854598",
+                "osm_type": "way",
+                "osm_id": "288270247",
+                "display_name": "Riyadh, Bliss, V&G Subdivision, Tacloban, Leyte, Eastern Visayas, 6500, Philippines",
+                "place_rank": "26",
+                "category": "highway",
+                "type": "residential",
+                "importance": 0.2
+            },
+            "bbox": [
+                125.0002222,
+                11.1983986,
+                125.0014937,
+                11.1992659
+            ],
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        125.0014937,
+                        11.1992659
+                    ],
+                    [
+                        125.0007913,
+                        11.1988036
+                    ],
+                    [
+                        125.0002222,
+                        11.1983986
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "place_id": "194569504",
+                "osm_type": "way",
+                "osm_id": "591011001",
+                "display_name": "Riyadh, Ciudad Grande Subdivision, Barangay 167, Caloocan, Metro Manila, 1420, Philippines",
+                "place_rank": "26",
+                "category": "highway",
+                "type": "residential",
+                "importance": 0.2
+            },
+            "bbox": [
+                121.0062188,
+                14.7254617,
+                121.0064562,
+                14.725503
+            ],
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        121.0062188,
+                        14.7254617
+                    ],
+                    [
+                        121.0064562,
+                        14.725503
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "place_id": "82565750",
+                "osm_type": "way",
+                "osm_id": "28465387",
+                "display_name": "Riyadh, Vista Verde North, Barangay 167, Caloocan, Metro Manila, 1420, Philippines",
+                "place_rank": "26",
+                "category": "highway",
+                "type": "residential",
+                "importance": 0.2
+            },
+            "bbox": [
+                121.0064562,
+                14.723927,
+                121.007209,
+                14.725503
+            ],
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        121.0064562,
+                        14.725503
+                    ],
+                    [
+                        121.0067288,
+                        14.7251497
+                    ],
+                    [
+                        121.0069695,
+                        14.7248378
+                    ],
+                    [
+                        121.007028,
+                        14.7246465
+                    ],
+                    [
+                        121.007209,
+                        14.723927
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "place_id": "147365634",
+                "osm_type": "way",
+                "osm_id": "310615991",
+                "display_name": "Riyadh, Sungai Besar, South Kalimantan, 70714, Indonesia",
+                "place_rank": "26",
+                "category": "highway",
+                "type": "residential",
+                "importance": 0.2
+            },
+            "bbox": [
+                114.8500792,
+                -3.4546171,
+                114.8501581,
+                -3.4542649
+            ],
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        114.8501581,
+                        -3.4542649
+                    ],
+                    [
+                        114.8500792,
+                        -3.4546171
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "place_id": "53880323",
+                "osm_type": "node",
+                "osm_id": "4319696198",
+                "display_name": "riyadh, Al Takhassusi Road, North Maathar District, Al Madhar, Riyadh Region, 12334-2723, Saudi Arabia",
+                "place_rank": "30",
+                "category": "amenity",
+                "type": "bank",
+                "importance": 0.11100000000000002,
+                "icon": "https://nominatim.openstreetmap.org/images/mapicons/money_bank2.p.20.png"
+            },
+            "bbox": [
+                46.6745483,
+                24.6851246,
+                46.6746483,
+                24.6852246
+            ],
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    46.6745983,
+                    24.6851746
+                ]
+            }
+        }
+    ]
+}
